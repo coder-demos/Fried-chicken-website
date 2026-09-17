@@ -23,7 +23,7 @@ A modern and responsive fried chicken restaurant website built with HTML, CSS, a
 
 ## 🌐 Live Demo
 
-[View Live Website](#)
+[View Live Website](https://coder-demos.github.io/Fried-chicken-website/)
 
 ## 👩‍💻 Developer
 
